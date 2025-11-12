@@ -1,8 +1,8 @@
 const options = ["Rock", "Paper", "Scissors"];
 const result = {
-  Paper: 'Scissors',
-  Scissors: 'Rock',
-  Rock: 'Paper'
+  Scissors: 'Paper',
+  Rock: 'Scissors',
+  Paper: 'Rock'
 }
 
 function getRandomComputerResult() {
